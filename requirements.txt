@@ -11,3 +11,8 @@ pytesseract
 langchain-huggingface
 transformers
 sentence-transformers
+streamlit 
+requests 
+lxml 
+beautifulsoup4
+numpy 
